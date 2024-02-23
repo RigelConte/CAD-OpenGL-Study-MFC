@@ -8,7 +8,7 @@ Initial Features:
 
 * Full window MFC base functionallity
 * Alows the creation of multiple Windows to manipulate objects
-* Initially thre simple cube objects are used with the intention of work base colors and texture colors
+* Initially three simple cube objects are used with the intention of work base colors and texture colors
 * Mouse event simple manipulation
 
 Working roght now...
